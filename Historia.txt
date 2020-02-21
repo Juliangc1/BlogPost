@@ -1,5 +1,7 @@
 Este documento es creado con la finalidad de hacer pruebas en el curso de GIT y GITHUB, la idea es poder entender de manera clara como el control de versiones muestra los cambios y actualiza los proyectos de manera colaborativa
 
-Mi nombre es Julian Gil tengo 33 años y soy estudiante de platzi hace 6 meses
+Mi nombre es Julian Gil tengo 33 años y soy estudiante de platzi hace 8 meses
 
 Actualmente soy el consultor de cultura organizacional de FEMSA México y Gerente de operaciones de SPIRA MÈXICO
+
+Se debe trabajar bajo un marco de metofologia agile
